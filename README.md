@@ -37,11 +37,11 @@ Total Revenue, Average Order Value, and Order Volume
   Time-series visualizations for daily/monthly trends
   Channel-wise performance comparison (Myntra vs Ajio)
 
----
 
  Tools Used
 
 Microsoft Power BI Desktop
 - Power Query for data transformation
 - DAXfor calculated columns and measures
+ -contact Sakshi Sable//email//sakshisable703@gmail.com//www.linkedin.com/in/sakshi-sable-76002b342
 
