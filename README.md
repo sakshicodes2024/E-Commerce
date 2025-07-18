@@ -43,5 +43,8 @@ Total Revenue, Average Order Value, and Order Volume
 Microsoft Power BI Desktop
 - Power Query for data transformation
 - DAXfor calculated columns and measures
+
+
+
  -contact Sakshi Sable//email//sakshisable703@gmail.com//www.linkedin.com/in/sakshi-sable-76002b342
 
